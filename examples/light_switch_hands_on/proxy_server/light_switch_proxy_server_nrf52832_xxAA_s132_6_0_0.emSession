@@ -1,0 +1,92 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" radix="16" sizeText="" addressText="0x1268"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Access"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Application"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Bearer"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Configuration Model"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Core"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;GATT"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Generic OnOff Model"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Health Model"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Mesh stack"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;nRF5 SDK"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Other"/>
+  <ProjectSessionItem path="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0;Toolchain"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context;CPU - Current Context/apsr;CPU" name="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="34" y="380" useTextEdit="1" useBinaryEdit="0" left="0" path="src/main.c" debugPath="src/main.c" selected="0" top="370" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="43" y="939" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/src/access.c" debugPath="../../../mesh/access/src/access.c" selected="1" top="928" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="225" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../models/model_spec/generic_on_off_hung/src/generic_on_off_client.c" debugPath="../../../models/model_spec/generic_on_off_hung/src/generic_on_off_client.c" selected="0" top="214" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="73" y="414" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/src/device_state_manager.c" debugPath="../../../mesh/access/src/device_state_manager.c" selected="0" top="455" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="342" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/api/nrf_mesh.h" debugPath="../../../mesh/core/api/nrf_mesh.h" selected="0" top="334" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="115" useTextEdit="1" useBinaryEdit="0" left="0" path="../../common/include/mesh_app_utils.h" debugPath="../../common/include/mesh_app_utils.h" selected="0" top="98" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="198" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/api/access.h" debugPath="../../../mesh/access/api/access.h" selected="0" top="187" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="397" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/src/access_reliable.c" debugPath="../../../mesh/access/src/access_reliable.c" selected="0" top="415" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/replay_cache.c" debugPath="../../../mesh/core/src/replay_cache.c" selected="0" top="30" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/mesh_config.c" debugPath="../../../mesh/core/src/mesh_config.c" selected="0" top="327" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/mesh_flash.c" debugPath="../../../mesh/core/src/mesh_flash.c" selected="0" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../common/src/app_error_weak.c" debugPath="../../common/src/app_error_weak.c" selected="0" top="48" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/bearer/src/radio_config.c" debugPath="../../../mesh/bearer/src/radio_config.c" selected="0" top="87" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/nrf_mesh.c" debugPath="../../../mesh/core/src/nrf_mesh.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/queue.c" debugPath="../../../mesh/core/src/queue.c" selected="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/bearer/src/rssi_filter.c" debugPath="../../../mesh/bearer/src/rssi_filter.c" selected="0" top="60" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="315" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/src/access_publish.c" debugPath="../../../mesh/access/src/access_publish.c" selected="0" top="297" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../common/src/mesh_adv.c" debugPath="../../common/src/mesh_adv.c" selected="0" top="144" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/rand.c" debugPath="../../../mesh/core/src/rand.c" selected="0" top="132" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/beacon.c" debugPath="../../../mesh/core/src/beacon.c" selected="0" top="72" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/aes.c" debugPath="../../../mesh/core/src/aes.c" selected="0" top="30" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="51" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/core/src/aes_cmac.c" debugPath="../../../mesh/core/src/aes_cmac.c" selected="0" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../mesh/access/src/access_loopback.c" debugPath="../../../mesh/access/src/access_loopback.c" selected="0" top="52" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="light_switch_proxy_server_nrf52832_xxAA_s132_6.0.0" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" debugSearchFileMap="" fileDialogInitialDirectory="C:/Nordic_Semiconductor/nRF5_SDK_15.0.0_a53641a/modules/nrfx/drivers/src" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
